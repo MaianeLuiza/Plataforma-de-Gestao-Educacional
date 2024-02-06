@@ -1,0 +1,3 @@
+1 - Colocar o servidor MySQL no ar. Execute o XAMPP para isso.
+2 - Executar o script para criação do banco.
+3 - Para executar o sistema digite na barra do navegador: http://localhost/SistemaEducacional/sistema/visao/formAutenticar.php
